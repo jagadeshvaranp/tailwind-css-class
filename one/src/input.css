@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.custom{
+    background: linear-gradient(blue,purple);
+    font-weight: 900;
+    color: red;
+}
